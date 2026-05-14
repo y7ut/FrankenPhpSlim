@@ -5,7 +5,7 @@ FrankenPHP Worker runtime for Slim 4 framework。
 ## install
 
 ```bash
-composer require backend/frankenphp-slim
+composer require  y7ut/frankenphp-slim
 ```
 
 ## usage
