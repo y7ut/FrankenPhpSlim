@@ -1,0 +1,23 @@
+{
+    "name": "y7ut/frankenphp-slim",
+    "description": "FrankenPHP Worker runtime for Slim 4 framework",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Y7ut\\FrankenPhpSlim\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.3"
+    },
+    "authors": [
+        {
+            "name": "Yichu",
+            "email": "y7ut1996@gmail.com"
+        }
+    ]
+}
